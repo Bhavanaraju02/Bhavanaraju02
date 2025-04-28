@@ -5,4 +5,4 @@
 💡 Intrested in translating complex data into meaningful insights and empower users.<br/>
 🔗 My LinkeIn Profile [LinkeIn](https://www.linkedin.com/in/bhavanaraju698/)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanaraju02&theme=dark&show_icons=true)
+![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanaraju02&theme=dark&show_icons=true)
